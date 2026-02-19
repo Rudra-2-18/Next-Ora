@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">The Next Ora Strategy Session</title>
+  <desc id="desc">Illustrated boardroom scene representing digital growth planning.</desc>
+  <rect width="960" height="640" fill="#f8fafc" />
+  <rect x="70" y="90" width="820" height="460" rx="22" fill="#ffffff" stroke="#e2e8f0" stroke-width="4" />
+  <rect x="120" y="150" width="420" height="280" rx="16" fill="#0f172a" />
+  <rect x="570" y="150" width="270" height="120" rx="14" fill="#1e293b" />
+  <rect x="570" y="290" width="270" height="140" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="3" />
+  <circle cx="220" cy="510" r="34" fill="#f59e0b" />
+  <circle cx="320" cy="510" r="34" fill="#1e293b" />
+  <circle cx="420" cy="510" r="34" fill="#0f172a" />
+  <rect x="160" y="210" width="340" height="16" rx="8" fill="#f59e0b" />
+  <rect x="160" y="250" width="280" height="14" rx="7" fill="#cbd5e1" />
+  <rect x="160" y="284" width="230" height="14" rx="7" fill="#cbd5e1" />
+  <rect x="160" y="318" width="260" height="14" rx="7" fill="#cbd5e1" />
+  <text x="588" y="225" fill="#f8fafc" font-size="28" font-family="Inter, Arial, sans-serif">Growth Dashboard</text>
+  <text x="596" y="338" fill="#0f172a" font-size="24" font-family="Inter, Arial, sans-serif">Leads</text>
+  <text x="596" y="375" fill="#64748b" font-size="20" font-family="Inter, Arial, sans-serif">+42% this month</text>
+</svg>

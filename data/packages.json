@@ -1,0 +1,163 @@
+[
+  {
+    "category": "Website",
+    "description": "Website packages built to establish trust and generate qualified business inquiries.",
+    "highlight": false,
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "Rs. 2,999",
+        "support_period": "15 days",
+        "best_for": "New businesses launching their first professional web presence",
+        "features": [
+          "Single-page website",
+          "Basic SEO setup",
+          "Contact form integration"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "Rs. 4,999",
+        "support_period": "30 days",
+        "best_for": "Businesses expanding services and needing stronger local trust",
+        "features": [
+          "Up to 5 pages",
+          "On-page SEO structure",
+          "WhatsApp lead button integration"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "Rs. 6,999",
+        "support_period": "45 days",
+        "best_for": "Businesses prioritizing high-conversion and premium presentation",
+        "features": [
+          "Custom multi-page build",
+          "Conversion-focused section strategy",
+          "Priority support and revisions"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Instagram (Monthly)",
+    "description": "Consistent social growth packages designed for visibility, engagement, and inquiry quality.",
+    "highlight": false,
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "Rs. 2,499",
+        "support_period": "Monthly",
+        "best_for": "Businesses starting regular social posting with direction",
+        "features": [
+          "Profile tune-up",
+          "Basic monthly content plan",
+          "Weekly review points"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "Rs. 3,999",
+        "support_period": "Monthly",
+        "best_for": "Businesses seeking more consistent engagement and lead intent",
+        "features": [
+          "Content calendar",
+          "Reel strategy guidance",
+          "Engagement support workflow"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "Rs. 5,999",
+        "support_period": "Monthly",
+        "best_for": "Businesses wanting advanced growth structure and campaign support",
+        "features": [
+          "Advanced growth planning",
+          "Campaign optimization support",
+          "Priority execution consulting"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Automation",
+    "description": "Automation packages that improve response speed and reduce lead handling friction.",
+    "highlight": false,
+    "plans": [
+      {
+        "name": "Basic",
+        "price": "Rs. 2,999",
+        "support_period": "30 days",
+        "best_for": "Small teams looking for faster first-response workflows",
+        "features": [
+          "Welcome auto-reply setup",
+          "Simple lead tags",
+          "Business-hours message flow"
+        ]
+      },
+      {
+        "name": "Smart",
+        "price": "Rs. 4,999",
+        "support_period": "45 days",
+        "best_for": "Teams handling regular inbound leads with category-wise routing needs",
+        "features": [
+          "Multi-step automation",
+          "Intent-based branching",
+          "Lead handover setup"
+        ]
+      },
+      {
+        "name": "Advanced",
+        "price": "Rs. 6,999",
+        "support_period": "60 days",
+        "best_for": "Businesses scaling lead operations and needing deeper workflow control",
+        "features": [
+          "Complex workflow mapping",
+          "Lead qualification flow",
+          "Advanced support coverage"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Combo",
+    "description": "Integrated plans combining website, Instagram growth, and automation for complete digital alignment.",
+    "highlight": true,
+    "plans": [
+      {
+        "name": "Starter",
+        "price": "Rs. 7,999",
+        "support_period": "30 days",
+        "best_for": "Businesses needing a complete foundation without heavy complexity",
+        "features": [
+          "Website starter setup",
+          "Instagram starter direction",
+          "Basic automation setup"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "Rs. 11,999",
+        "support_period": "45 days",
+        "best_for": "Growing businesses wanting stronger digital consistency and conversion",
+        "features": [
+          "Growth website package",
+          "Instagram growth package",
+          "Smart automation workflow"
+        ],
+        "badge": "Most Popular"
+      },
+      {
+        "name": "Ultimate",
+        "price": "Rs. 15,999",
+        "support_period": "60 days",
+        "best_for": "Established businesses seeking high-performance integrated execution",
+        "features": [
+          "Pro website package",
+          "Pro Instagram management",
+          "Advanced automation plus support"
+        ]
+      }
+    ]
+  }
+]

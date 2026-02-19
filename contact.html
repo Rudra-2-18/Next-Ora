@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Contact The Next Ora for websites, Instagram growth, and WhatsApp automation services in Ahmedabad and Surat." />
+  <title>Contact | The Next Ora</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body class="page-loading">
+  <div id="page-loader" class="page-loader" aria-live="polite">
+    <div>
+      <div class="loader-core" aria-hidden="true"></div>
+      <p>Loading The Next Ora...</p>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand" aria-label="The Next Ora Home">
+        <span class="brand-title">The Next Ora</span>
+        <span class="brand-tag">Smart Digital Growth for Local Businesses</span>
+      </a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="primary-menu" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="primary-menu" class="nav-menu" aria-label="Primary Navigation">
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="packages.html">Packages</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="active">Contact</a>
+        <a href="tel:+919313495498" class="nav-pill">Call Now</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section page-hero">
+      <div class="container">
+        <p class="eyebrow reveal">Get In Touch</p>
+        <h1 class="reveal">Discuss Your Growth Goals with The Next Ora</h1>
+        <p class="lead reveal">Share your requirements once, and we will respond with clear recommendations, practical scope, and transparent next steps.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container contact-grid">
+        <aside class="card contact-card reveal">
+          <h2>Contact Details</h2>
+          <p><strong>Phone / WhatsApp:</strong> <a href="tel:+919313495498">+91 9313495498</a></p>
+          <p><strong>Email:</strong> <a href="mailto:patelrudra9313@gmail.com">patelrudra9313@gmail.com</a></p>
+          <p><strong>Service Areas:</strong> Ahmedabad & Surat</p>
+          <p>For faster response, send your requirement summary on WhatsApp. Our team will guide you on package fitment and delivery timeline.</p>
+          <a class="btn btn-primary" href="https://wa.me/919313495498?text=Hi%20The%20Next%20Ora,%20I%20need%20help%20with%20digital%20growth." target="_blank" rel="noopener">Chat on WhatsApp</a>
+          <div class="contact-closure">
+            <p><strong>Professional note:</strong> We value clear communication and responsible execution. Your inquiry details are used only for project consultation.</p>
+          </div>
+        </aside>
+
+        <section class="card reveal reveal-delay-1">
+          <h2>Inquiry / Get in Touch</h2>
+          <p class="small-text">Please provide accurate details so we can recommend the right approach for your business.</p>
+          <form id="inquiry-form" action="backend/public/submit-inquiry.php" method="POST" novalidate>
+            <div class="form-grid">
+              <div class="form-group">
+                <label for="name">Full Name</label>
+                <input id="name" name="name" type="text" maxlength="80" required />
+              </div>
+
+              <div class="form-group">
+                <label for="phone">Phone Number</label>
+                <input id="phone" name="phone" type="tel" maxlength="16" required />
+              </div>
+
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email" maxlength="120" required />
+              </div>
+
+              <div class="form-group">
+                <label for="business_type">Business Type</label>
+                <select id="business_type" name="business_type" required>
+                  <option value="">Select your business type</option>
+                  <option value="Cafe">Cafe</option>
+                  <option value="Salon">Salon</option>
+                  <option value="Gym">Gym</option>
+                  <option value="Travel Agency">Travel Agency</option>
+                  <option value="Clinic">Clinic</option>
+                  <option value="Coaching Institute">Coaching Institute</option>
+                  <option value="Other Local Business">Other Local Business</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="city">City</label>
+                <input id="city" name="city" type="text" maxlength="80" required />
+              </div>
+            </div>
+
+            <fieldset class="form-group checkbox-group">
+              <legend>Services Interested In</legend>
+              <label><input type="checkbox" name="services[]" value="Website Development" /> Website Development</label>
+              <label><input type="checkbox" name="services[]" value="Instagram Growth" /> Instagram Growth</label>
+              <label><input type="checkbox" name="services[]" value="WhatsApp Automation" /> WhatsApp Automation</label>
+              <label><input type="checkbox" name="services[]" value="Combo Package" /> Combo Package</label>
+            </fieldset>
+
+            <div class="form-group">
+              <label for="message">Message / Requirements</label>
+              <textarea id="message" name="message" rows="5" maxlength="1000" required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary" id="submit-btn">
+              <span class="btn-text">Submit Inquiry</span>
+              <span class="btn-spinner" aria-hidden="true"></span>
+            </button>
+            <p id="form-feedback" class="form-feedback" aria-live="polite"></p>
+          </form>
+          <p class="small-text">After submission, our team usually responds within one business day with the next practical steps.</p>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <section>
+        <h3 class="footer-title">The Next Ora</h3>
+        <p>Local business growth needs clarity and consistency. We build systems that help you stay visible, responsive, and conversion-focused.</p>
+        <p class="small-text">Smart Digital Growth for Local Businesses</p>
+      </section>
+      <section>
+        <h3 class="footer-title">Quick Links</h3>
+        <ul class="footer-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="packages.html">Packages</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </section>
+      <section>
+        <h3 class="footer-title">Contact</h3>
+        <p><a href="tel:+919313495498">+91 9313495498</a></p>
+        <p><a href="mailto:patelrudra9313@gmail.com">patelrudra9313@gmail.com</a></p>
+        <p>Ahmedabad & Surat, India</p>
+      </section>
+    </div>
+    <p class="footer-copy">&copy; <span id="year"></span> The Next Ora. All rights reserved.</p>
+  </footer>
+
+  <a class="floating-whatsapp" href="https://wa.me/919313495498?text=Hi%20The%20Next%20Ora" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">WhatsApp</a>
+  <script src="assets/js/main.js" defer></script>
+  <script src="assets/js/form.js" defer></script>
+</body>
+</html>

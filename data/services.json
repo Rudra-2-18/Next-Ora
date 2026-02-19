@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Website Development",
+    "description": "Professional websites designed for trust, clarity, and inquiry conversion.",
+    "why_matters": "Your website is often the first trust checkpoint. If customers do not understand your value quickly, inquiries are lost before conversation begins.",
+    "who_its_for": "Ideal for businesses with no website, outdated pages, or low-quality inquiry flow.",
+    "what_you_get": [
+      "Responsive business-ready pages for mobile and desktop",
+      "Service-focused content architecture with clear call-to-action flow",
+      "SEO-friendly semantic structure and optimized loading",
+      "Integrated lead form, click-to-call, and WhatsApp contact entry points"
+    ],
+    "key_benefits": [
+      "Higher trust from first-time visitors",
+      "Improved lead quality and conversion intent",
+      "Stronger brand presence in local search and social sharing"
+    ],
+    "icon": "Website"
+  },
+  {
+    "title": "Instagram Growth",
+    "description": "Monthly growth systems that align social visibility with business outcomes.",
+    "why_matters": "Without strategic content structure, social activity becomes inconsistent and difficult to convert into real business conversations.",
+    "who_its_for": "Best for local businesses that post regularly but still struggle with engagement quality or inquiry consistency.",
+    "what_you_get": [
+      "Monthly content planning framework based on your business category",
+      "Profile and communication optimization to improve first impression",
+      "Audience engagement workflow recommendations",
+      "Performance review rhythm with practical action points"
+    ],
+    "key_benefits": [
+      "Consistent brand visibility",
+      "Better profile authority and audience trust",
+      "Clearer pathway from social attention to inquiry"
+    ],
+    "icon": "Instagram"
+  },
+  {
+    "title": "WhatsApp Automation",
+    "description": "Lead-response automation that improves speed, structure, and consistency.",
+    "why_matters": "Delayed replies and scattered follow-up directly reduce conversion. Automation keeps response quality stable even during peak inquiry periods.",
+    "who_its_for": "Useful for teams handling frequent inbound leads or businesses that want cleaner inquiry management.",
+    "what_you_get": [
+      "Structured welcome and first-response automation setup",
+      "Intent-based message routing and lead categorization logic",
+      "Follow-up response templates for faster communication",
+      "Workflow guidance for team handoff and response consistency"
+    ],
+    "key_benefits": [
+      "Faster response to potential customers",
+      "Reduced missed inquiries and manual overhead",
+      "Improved conversion continuity across communication stages"
+    ],
+    "icon": "WhatsApp"
+  }
+]
